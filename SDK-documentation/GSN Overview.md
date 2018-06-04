@@ -17,8 +17,12 @@ KONGSBERG Remote Service though K-GSN gives access to:
 *	Remote update of offshore systems
 *	Remote commissioning
  
+ ![](https://github.com/kognifai/Infrastructure/blob/master/.attachments/Remote%20Services.png)
+ 
 ## Technical Specifications
 K-GSN can be deployed using a range of HW and SW components, depending on end characteristics and delivery scale. The global network solution consists of two groups of devices, communication hubs and node network devices. All network traffic between network devices are encrypted. Any IP-based communication link can be utilized as a communication carrier.
+
+![](https://github.com/kognifai/Infrastructure/blob/master/.attachments/Technical%20Specifications.png)
  
 ## Technology Components
 *	IPSEC encrypted MPLS based Service Provider WAN. Controlled and maintained only by KONGSBERG’S PKI regime.
@@ -28,6 +32,8 @@ K-GSN can be deployed using a range of HW and SW components, depending on end ch
 *	Equipment vendors can be given access to one or more vessels via the K-GSN network
 *	Marine approved Cisco ISR Router that are a combined device that acts as WAN router, Firewall and switch. Controlled and maintained only by KONGSBERG’S certified personnel.
 *	KONGSBERG uses Open standards and well known Cisco products in the K-GSN solution and have a close collaboration with Cisco and their products.
+
+![](https://github.com/kognifai/Infrastructure/blob/master/.attachments/Technology%20Components.png)
 
 ## Detailed description
 The network is designed to interconnect KONGSBERG controlled support and data centres, and nodes owned by customers of KONGSBERG.
