@@ -1,3 +1,4 @@
+
 # Overview
 Internet of Things solutions in an industrial scale and scenario requires a proven and solid end to end cyber security strategy. KONGSBERG has through years of experience with advanced, distributed automation and control systems acquired valuable experience in the field of securing installations, equipment, sensors and data.
 
@@ -13,6 +14,8 @@ Approaching the security solution by using zones are meaningful not only when sp
 
 Data and access between the different zones are limited and controlled through firewalls, authentication regimes and protocol security.
  
+ ![](https://github.com/kognifai/Infrastructure/blob/master/.attachments/Securing%20Internet.png)
+
 # The Control Zone
 
 The control zone contains the automation and control systems, sensors, and other physical hardware.
