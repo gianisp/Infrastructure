@@ -1,3 +1,4 @@
+
 # Layered approach
 The network design is segmented into two main layers. The interlan layer provides site-to-site connectivity and the node layer handles connections to adjacent networks within the node.
 
@@ -11,6 +12,7 @@ The interlan consists of at least one communication hub. Redundancy is provided 
 
 # Route reflector
 A route reflector service is provided to keep track of active communication hubs.
+![](https://github.com/kognifai/Infrastructure/blob/master/.attachments/Route%20Reflector.png)
 
 # Node
 The node layer consists of different local networks interconnected by a network device. There are also one or more connections to the interlan layer for routing to external nodes. Each node belongs to one customer only.
@@ -18,9 +20,11 @@ The node layer consists of different local networks interconnected by a network 
 # Interlan connection
 The external connection to interlan can be formed in numerous ways.
 Through customer infrastructure and the internet.
+![](https://github.com/kognifai/Infrastructure/blob/master/.attachments/Interlan%20Connection.png)
 
 Through a divided part of satcom bandwidth
 Services like encryption and WAN optimization can be provided by the satcom provider. The node network device gets a dedicated link to the satcom modem on-site.
+![](https://github.com/kognifai/Infrastructure/blob/master/.attachments/customer%20node.png)
 
 Direct link to communication hub
 A direct link between the node network device and the communication hub is preferred whenever suitable. Customer separation is handled either by the communication hub or VLAN-separation through a trunk. This connection form requires a physical secure and controlled environment. Preferably an environment controlled by KONGSBERG.
