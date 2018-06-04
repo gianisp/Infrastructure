@@ -27,11 +27,11 @@ The network design is scalable up to 50 000 logical separated networks and more 
 All communication shall be carried by a common network infrastructure. The solution provides a reliable and secure separation of each customer communicating through the network.
 
 # High-level Design
-[High-Level Design](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/High-level%20Design.md)
+For more information on High-level Design, click [here](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/High-level%20Design.md).
 
 # Securing Internet of Things
 
-[Security Internet of Things](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/Securing%20Internet%20of%20Things.md)
+For more information on High-level Design, click [here](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/Securing%20Internet%20of%20Things.md).
 
 
 # License
