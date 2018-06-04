@@ -1,3 +1,4 @@
+
 # Overview
 The Global Secure Network ensures a reliable, secure and unified way of communication and data transfer between remote installations, public and private clouds, customers, end point infrastructure and sensors.
  
@@ -32,3 +33,12 @@ K-GSN can be deployed using a range of HW and SW components, depending on end ch
 *	Equipment vendors can be given access to one or more vessels via the K-GSN network
 *	Marine approved Cisco ISR Router that are a combined device that acts as WAN router, Firewall and switch. Controlled and maintained only by KONGSBERG’S certified personnel.
 *	KONGSBERG uses Open standards and well known Cisco products in the K-GSN solution and have a close collaboration with Cisco and their products.
+
+## Detailed description
+The network is designed to interconnect KONGSBERG controlled support and data centres, and nodes owned by customers of KONGSBERG.
+## Internet as carrier
+Internet is the primary carrier between sites, due to cost issues with leased lines. Most of the sites will also be carried by a satellite link.
+## Scalability
+The network design is scalable up to 50 000 logical separated networks and more than 30 000 nodes within the KONGSBERG global IP addressing plan. In addition, close to 25 000 nodes with private IP addressing plan can be deployed within this design.
+## Customer separation
+All communication shall be carried by a common network infrastructure. The solution provides a reliable and secure separation of each customer communicating through the network.
