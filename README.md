@@ -31,7 +31,7 @@ For more information on High-level Design, click [here](https://github.com/kogni
 
 # Securing Internet of Things
 
-For more information on High-level Design, click [here](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/Securing%20Internet%20of%20Things.md).
+For more information on Securing Internet of Things, click [here](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/Securing%20Internet%20of%20Things.md).
 
 
 # License
