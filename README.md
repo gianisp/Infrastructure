@@ -37,3 +37,5 @@ For more information on Securing Internet of Things, click [here](https://github
 # License
 Read the copyright information and terms and conditions for Usage and Development of the software [here]( https://github.com/kognifai/Kognifai/blob/master/License.md#copyright--year-kongsberg-digital-as).
 
+## Let's discuss here 
+ Write your queries and discussions [here](https://github.com/kognifai/Kognifai/issues) and submit to post them on Gitter chat room.
