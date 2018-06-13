@@ -1,5 +1,5 @@
 
-# GSN Overview   [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
+## GSN Overview   [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
 
 The Global Secure Network ensures a reliable, secure and unified way of communication and data transfer between remote installations, public and private clouds, customers, end point infrastructure and sensors.
 ![](https://github.com/kognifai/Infrastructure/blob/master/.attachments/Overview.png)
@@ -14,7 +14,7 @@ K-GSN is a key building block in KDI’s Digital Platform. It is segregated, enc
 
 * [Technology Components](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/GSN%20Overview.md)
 
-# Detailed description
+## Detailed description
 The network is designed to interconnect KONGSBERG controlled support and data centres, and nodes owned by customers of KONGSBERG.
 
 ### Internet as carrier
@@ -26,16 +26,14 @@ The network design is scalable up to 50 000 logical separated networks and more 
 ### Customer separation
 All communication shall be carried by a common network infrastructure. The solution provides a reliable and secure separation of each customer communicating through the network.
 
-# High-level Design
+## High-level Design
 For more information on High-level Design, click [here](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/High-level%20Design.md).
 
-# Securing Internet of Things
+## Securing Internet of Things
 
 For more information on Securing Internet of Things, click [here](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/Securing%20Internet%20of%20Things.md).
 
 
-# License
+## License
 Read the copyright information and terms and conditions for Usage and Development of the software [here]( https://github.com/kognifai/Kognifai/blob/master/License.md#copyright--year-kongsberg-digital-as).
 
-## Let's discuss here 
- Write your queries and discussions [here](https://github.com/kognifai/Kognifai/issues) and submit to post them on Gitter chat room.
