@@ -1,5 +1,5 @@
 
-# GSN Overview
+# GSN Overview   [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
 
 The Global Secure Network ensures a reliable, secure and unified way of communication and data transfer between remote installations, public and private clouds, customers, end point infrastructure and sensors.
 ![](https://github.com/kognifai/Infrastructure/blob/master/.attachments/Overview.png)
