@@ -1,10 +1,10 @@
 
 ## GSN Overview   [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
 
-The Global Secure Network ensures a reliable, secure and unified way of communication and data transfer between remote installations, public and private clouds, customers, end point infrastructure and sensors.
+The Global Secure Network ensures reliable, secure and unified way of communication and assures smooth data transfer among remote installations, public and private clouds, customers, end point infrastructure and sensors. 
 ![](.attachments/Overview.png)
 
-K-GSN is a key building block in KDI’s Digital Platform. It is segregated, encrypted and private using digital ID with certificate, node and user management, included two-factor user authentication. The network is integrated with cloud services, such as Microsoft Azure, making it more flexible, productive, faster and cost effective.
+K-GSN is a key building block in KDI’s Digital Platform. It is segregated, encrypted and private using digital ID with certificate, node and user management, included two-factor user authentication. The network is integrated with cloud services such as Microsoft Azure, making it more flexible, productive, faster and cost-effective.
 
 * [Life Cycle Management](SDK-documentation/GSN%20Overview.md)
 
