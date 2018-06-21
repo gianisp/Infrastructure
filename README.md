@@ -2,9 +2,11 @@
 ## GSN Overview   [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
 
 The Global Secure Network ensures reliable, secure and unified way of communication and assures smooth data transfer among remote installations, public and private clouds, customers, end point infrastructure and sensors. 
+
+
 ![](.attachments/Overview.png)
 
-K-GSN is a key building block in KDI’s Digital Platform. It is segregated, encrypted and private using digital ID with certificate, node and user management, included two-factor user authentication. The network is integrated with cloud services such as Microsoft Azure, making it more flexible, productive, faster and cost-effective.
+K-GSN is a key building block in KDI’s Digital Platform which uses two-factor user authentication, segregation, encryption, certification with private using digital ID, node, and user management. The network is integrated with Microsoft Azure cloud service which results in more flexible, productive, faster and cost-effective.
 
 * [Life Cycle Management](SDK-documentation/GSN%20Overview.md)
 
@@ -15,12 +17,15 @@ K-GSN is a key building block in KDI’s Digital Platform. It is segregated, enc
 * [Technology Components](SDK-documentation/GSN%20Overview.md)
 
 ## Detailed description
-The network is designed to interconnect Kongsberg controlled support and data centres, and nodes owned by customers of Kongsberg.
+
+The network is designed to interconnect controlled support and data centres of Kongsberg, and nodes owned by customers of Kongsberg.
 
 ### Internet as carrier
+
 Internet is the primary carrier between sites, due to cost issues with leased lines. Most of the sites will also be carried by a satellite link.
 
 ### Scalability
+
 The network design is scalable up to 50 000 logical separated networks and more than 30 000 nodes within the KONGSBERG global IP addressing plan. In addition, close to 25 000 nodes with private IP addressing plan can be deployed within this design.
 
 ### Customer separation
