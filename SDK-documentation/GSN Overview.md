@@ -1,14 +1,16 @@
 
 ## Life Cycle Management
-The customer connection and hosting environment are easy to deploy and maintain trough benefits such as:
-* Automatic configuration and deployment through Self-Service Portal
-*	Based on commercially available HW, standard protocols and Kongsberg templates
+
+The customer connection and hosting environment are easy-to-deploy and maintain through the following benefits:
+* Automatic configuration and deployment through self-service portal
+*	Standard protocols and Kongsberg templates are used based on commercially available HW 
 *	Hardware management and continuous product development
 *	Node management can include malware protection and intrusion detection
 *	Marine approved HW (by DNV GL)
 *	Kongsberg provides third line support on hardware and software solutions
 
 ## Remote Services
+
 K-GSN is the basis for providing Remote Services, using remote access tools like BOMGAR. KONGSBERG Remote Services is a tool for certified Kongsberg engineers worldwide to connect to an installation upon customer request and provide support.
 KONGSBERG Remote Service though K-GSN gives access to:
 *	Operational support and guidance
