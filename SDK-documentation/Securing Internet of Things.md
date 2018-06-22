@@ -14,7 +14,7 @@ Approaching the security solution by using zones are meaningful not only when sp
 
 Data and access between the different zones are limited and controlled through firewalls, authentication regimes and protocol security.
  
- ![](https://github.com/kognifai/Infrastructure/blob/master/.attachments/Securing%20Internet.png)
+ ![](Images/Securing%20Internet.png)
 
 # The Control Zone
 
