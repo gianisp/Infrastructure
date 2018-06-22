@@ -12,7 +12,7 @@ The interlan consists of at least one communication hub. Redundancy is provided 
 
 # Route reflector
 A route reflector service is provided to keep track of active communication hubs.
-![](https://github.com/kognifai/Infrastructure/blob/master/.attachments/Route%20Reflector.png)
+![](Images/Route%20Reflector.png)
 
 # Node
 The node layer consists of different local networks interconnected by a network device. There are also one or more connections to the interlan layer for routing to external nodes. Each node belongs to one customer only.
