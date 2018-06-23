@@ -9,11 +9,11 @@ In this section, we talk about:
 
 * [Life Cycle Management](SDK-documentation/GSN%20Overview.md)
 
-* [Remote Services](SDK-documentation/GSN%20Overview.md)
+* [Remote Services](SDK-documentation/Remote%20Services.md)
 
-* [Technical Specifications](SDK-documentation/GSN%20Overview.md)
+* [Technical Specifications](SDK-documentation/Technical%20Specifications.md)
 
-* [Technology Components](SDK-documentation/GSN%20Overview.md)
+* [Technology Components](SDK-documentation/Technology%20Components.md)
 
 
 ## GSN Overview   [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
