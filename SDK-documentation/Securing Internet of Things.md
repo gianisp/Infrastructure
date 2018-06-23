@@ -2,7 +2,7 @@
 # Overview
 Internet of Things solution, in an industrial scale and scenario, requires a proven and solid end-to-end cyber security strategy. Kongsberg has through years of experience with advanced, distributed automation and control systems acquired valuable experience in the field of securing installations, equipment, sensors and data.
 
-We have developed an end-to-end approach, following our kognifai IoT reference architecture, segregating components and zones, as well as taking care of the life cycle management of operating long living solutions in the industrial space.
+We have developed an end-to-end approach, following our Kognifai IoT reference architecture, segregating components and zones, as well as taking care of the life cycle management of operating long living solutions in the industrial space.
 
 In this article, we dive deeper into the different zones that include:
 
@@ -36,11 +36,11 @@ Both the IoT Gateway and the router are equipped with certificates centrally man
 
 # Publish Zone
 
-Publish zone contains any offshore user-facing applications, APIs, and integrated solutions. and provides application firewall functionality. This zone is protected by Application Firewalls, DDoS measurements. Access to Apps, APIs and data is controlled by authentication schemes and Identity Management enforcing the correct level of security for the solution and protection level.
+Publish zone contains any offshore user-facing applications, APIs, and integrated solutions. It also provides application firewall functionality. This zone is protected by Application Firewalls, DDoS measurements. Access to Apps, APIs and data is controlled by authentication schemes and Identity Management enforcing the correct level of security for the solution and protection level.
 
 # Cloud Gateway Zone
 
-Cloud gateway Zone contains end point for the IoT traffic, receives data from all authenticated IoT Clients and Gateways, makes the data available for consumers in the Service Zone through queues and buffering.
+Cloud gateway Zone contains end point for the IoT traffic, receives data from all authenticated IoT Clients and Gateways, and makes the data available for consumers in the Service Zone through queues and buffering.
 
 # Service Zone
 
