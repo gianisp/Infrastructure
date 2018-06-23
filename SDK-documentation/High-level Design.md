@@ -18,6 +18,7 @@ The interlan consists of at least one communication hub. Redundancy is provided 
 
 ## Route reflector
 A route reflector service is provided to keep track of the active communication hubs.
+
 ![](Images/Route%20Reflector.png)
 
 ## Node
@@ -27,9 +28,11 @@ Node layer consists of different local networks interconnected by a network devi
 ## Interlan connection
 
 The external connection to interlan can be formed in numerous ways such as through customer infrastructure and the internet.
+
 ![](Images/Interlan%20Connection.png)
 
 Through a divided part of satcom bandwidth services such as encryption and WAN optimization can be provided by the satcom provider. The node network device gets a dedicated link to the satcom modem on-site.
+
 ![](Images/customer%20node.png)
 
 Direct link to communication hub
