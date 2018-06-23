@@ -1,4 +1,4 @@
-
+# Infrastructure
 
 In this section, we talk about:
 - [GSN Overview](#GSN-Overview)
