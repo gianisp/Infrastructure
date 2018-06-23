@@ -1,4 +1,21 @@
 
+
+In this section, we talk about:
+- [GSN Overview](#GSN-Overview)
+- [High-level Design](#High-level-Design)
+- [Securing Internet of Things](#Securing-Internet-of-Things-)
+
+## See Also
+
+* [Life Cycle Management](SDK-documentation/GSN%20Overview.md)
+
+* [Remote Services](SDK-documentation/GSN%20Overview.md)
+
+* [Technical Specifications](SDK-documentation/GSN%20Overview.md)
+
+* [Technology Components](SDK-documentation/GSN%20Overview.md)
+
+
 ## GSN Overview   [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
 
 Global Secure Network ensures reliable, secure and unified way of communication and assures smooth data transfer among remote installations, public and private clouds, customers, end point infrastructure and sensors. 
@@ -8,7 +25,7 @@ Global Secure Network ensures reliable, secure and unified way of communication 
 
 K-GSN is a key building block in KDI’s Digital Platform which uses two-factor user authentication, segregation, encryption, certification with private using digital ID, node, and user management. The network is integrated with Microsoft Azure cloud service which results in more flexible, productive, faster and cost-effective.
 
-## Detailed description
+### Detailed description
 
 The network is designed to interconnect controlled support and data centres of Kongsberg, and nodes owned by customers of Kongsberg.
 
@@ -24,15 +41,6 @@ The network design is scalable up to 50 000 logically separated networks and mor
 
 A common network infrastructure carries all the communications. This solution provides reliable, secure, separation method for each customer communication through the network.
 
-## See Also
-
-* [Life Cycle Management](SDK-documentation/GSN%20Overview.md)
-
-* [Remote Services](SDK-documentation/GSN%20Overview.md)
-
-* [Technical Specifications](SDK-documentation/GSN%20Overview.md)
-
-* [Technology Components](SDK-documentation/GSN%20Overview.md)
 
 ## High-level Design
 For more information on High-level Design, click [here](SDK-documentation/High-level%20Design.md).
