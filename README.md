@@ -23,7 +23,7 @@ Global Secure Network ensures reliable, secure and unified way of communication 
 
 ![](.attachments/Overview.png)
 
-K-GSN is a key building block in KDI’s Digital Platform which uses two-factor user authentication, segregation, encryption, certification with private using digital ID, node, and user management. The network is integrated with Microsoft Azure cloud service which results in more flexible, productive, faster and cost-effective.
+K-GSN is a key building block in KDI’s Digital Platform which uses two-factor user authentication, segregation, encryption, and  certification with private using digital ID, node, and user management. The network is integrated with Microsoft Azure cloud service which results in more flexible, productive, faster and cost-effective.
 
 ### Detailed description
 
