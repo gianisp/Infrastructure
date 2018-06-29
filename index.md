@@ -7,13 +7,13 @@ In this section, we talk about:
 
 ## See Also
 
-* [Life Cycle Management](SDK-documentation/GSN%20Overview.md)
+* [Life Cycle Management](Documentation/GSN%20Overview.md)
 
-* [Remote Services](SDK-documentation/Remote%20Services.md)
+* [Remote Services](Documentation/Remote%20Services.md)
 
-* [Technical Specifications](SDK-documentation/Technical%20Specifications.md)
+* [Technical Specifications](Documentation/Technical%20Specifications.md)
 
-* [Technology Components](SDK-documentation/Technology%20Components.md)
+* [Technology Components](Documentation/Technology%20Components.md)
 
 
 ## GSN Overview   [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
@@ -43,11 +43,11 @@ A common network infrastructure carries all the communications. This solution pr
 
 
 ## High-level Design
-For more information on High-level Design, click [here](SDK-documentation/High-level%20Design.md).
+For more information on High-level Design, click [here](Documentation/High-level%20Design.md).
 
 ## Securing Internet of Things
 
-For more information on Securing Internet of Things, click [here](SDK-documentation/Securing%20Internet%20of%20Things.md).
+For more information on Securing Internet of Things, click [here](Documentation/Securing%20Internet%20of%20Things.md).
 
 
 ## License
