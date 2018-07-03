@@ -27,7 +27,7 @@ K-GSN is a key building block in KDI’s Digital Platform which uses two-factor 
 
 ### Detailed description
 
-The network is designed to interconnect controlled support and data centres of Kongsberg, and nodes owned by customers of Kongsberg.
+The network is designed to interconnect controlled support and data centres of KONGSBERG, and nodes owned by customers of KONGSBERG.
 
 ### Internet as carrier
 
